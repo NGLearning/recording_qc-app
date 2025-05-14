@@ -1,0 +1,6 @@
+
+streamlit
+openai==1.66.3
+whisper
+python-pptx
+ffmpeg-python
