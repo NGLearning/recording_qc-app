@@ -1,6 +1,6 @@
 
 streamlit
 openai==1.66.3
-whisper
+git+https://github.com/openai/whisper.git
 python-pptx
 ffmpeg-python
